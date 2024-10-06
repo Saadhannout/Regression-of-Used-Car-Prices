@@ -1,2 +1,2 @@
 # Regression-of-Used-Car-Prices
-This model used to detect the price of used cars
+ The goal of this project is to predict the price of used cars based on various attributes.
